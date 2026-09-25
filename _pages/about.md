@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: SP1 410H</p>
+    <p>Office: SP2 350D</p>
     <p>College of AI, Cyber and Computing</p>
     <p>The University of Texas at San Antonio</p>
     <p>San Antonio, TX</p>
