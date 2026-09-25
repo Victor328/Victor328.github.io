@@ -6,6 +6,7 @@ subtitle: Assistant Professor, <a href='https://caicc.utsa.edu/computer-science/
 
 profile:
   align: right
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: SP1 410H</p>

@@ -30,6 +30,19 @@
       description:
         - Lead the Trustworthy AI Lab, advising three Ph.D. students on the robustness, explainability, privacy, fairness and unlearning of machine learning models.
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: CS 5233 Artificial Intelligence (graduate)
+      institution: The University of Texas at San Antonio
+      year: Spring 2024 - Fall 2026
+    - title: CS 6243 Machine Learning / EE 6363 Advanced Machine Learning (graduate)
+      institution: The University of Texas at San Antonio
+      year: Fall 2025
+    - title: CS 3793 Artificial Intelligence (undergraduate)
+      institution: The University of Texas at San Antonio
+      year: Spring 2026
+
 - title: Research Areas
   type: nested_list
   contents:
